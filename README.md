@@ -1,7 +1,7 @@
 # SkillyNFT_onchain
 Skilly NFT collection - metadata stored on-chain
 
-A chaque étape importante du projet, une collection de NFT est crée pour les membres de l'équipe. Une sorte de "J'y étais" numérique.
+A chaque étape importante du projet, une collection de NFT est crée pour les membres de l'équipe. Une sorte de "J'y ai particicipé" numérique.
 
 SKP21, la collection de NFT crée pour le lancement des interfaces de Skill Pulse V1 a été générée on-chain, limitant l'aspect graphique des NFTs mais permettant le stockage de toutes les données sur la blokchain. 
 
